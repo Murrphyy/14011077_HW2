@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lessons">
+        <item>Mobil Programlamaya Giriş  : AA</item>
+        <item>Veri Yapıları ve Algoritmalar : BA</item>
+        <item>Yapay Zeka : BB</item>
+        <item>Uzman Sistemler : CB</item>
+        <item>Bilgisayar Bilimlerine Giriş : AA</item>
+        <item>Mesleki Hukuk ve Etik : BA</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lessonNames">
+        <item>Mobil Programlamaya Giriş  </item>
+        <item>Veri Yapıları ve Algoritmalar </item>
+        <item>Yapay Zeka </item>
+        <item>Uzman Sistemler </item>
+        <item>Bilgisayar Bilimlerine Giriş </item>
+        <item>Mesleki Hukuk ve Etik </item>
+    </string-array>
+    <string-array name="lecturers">
+        <item>MAG</item>
+        <item>MEK</item>
+        <item>MFA</item>
+        <item>MFA</item>
+        <item>MAG</item>
+        <item>ÖÖB</item>
+    </string-array>
+    <string-array name="avgGrades">
+        <item>45</item>
+        <item>48</item>
+        <item>41</item>
+        <item>49</item>
+        <item>52</item>
+        <item>54</item>
+    </string-array>
+    <string-array name="numOfStudents">
+        <item>75</item>
+        <item>60</item>
+        <item>55</item>
+        <item>60</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+</resources>
